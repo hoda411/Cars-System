@@ -9,14 +9,6 @@ package project1;
  *
  * @author ok
  */
-public class Project1 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-  new Signin().setVisible(true);
-// new test().setVisible(true);
-    }
+public class Items {
     
 }
